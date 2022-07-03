@@ -1,0 +1,1 @@
+# Handwriting-detection-as-part-of-Machine-Learning-course
